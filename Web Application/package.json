@@ -24,7 +24,7 @@
     "reactstrap": "^9.1.1",
     "sweetalert": "^2.1.2",
     "web-vitals": "^0.2.4",
-    "webpack": "^5.73.0"
+    "webpack": "^5.103.0"
   },
   "scripts": {
     "start": "react-scripts start",
